@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Noto Serif JP Bold';
+    src: url('test.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
