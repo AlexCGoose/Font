@@ -16,7 +16,7 @@
 }
 
 @font-face {
-    font-family: 'NotoSerifJPB';
+    font-family: 'NotoSerifJPBl';
     src: url('NotoSerifJP-Black-Alphabetic.woff2') format('woff2');
     font-weight: 900;
     font-style: normal;
@@ -24,7 +24,7 @@
 }
 
 @font-face {
-    font-family: 'NotoSerifJPB';
+    font-family: 'NotoSerifJPBo';
     src: url('NotoSerifJP-Bold-Alphabetic.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
